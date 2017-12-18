@@ -49,7 +49,7 @@ Minimum viable product, no bloat. Then go forward from that, in slices. Slices a
 
 Don't add layers on top of layers. Some engineers love layers, because they have complicated minds, but each additional layer is an overhead, it makes architecture more complicated and that's the start of evil. 
 
-Simple solutions are elegant and efficient and cheap to maintain.
+Simple solutions are elegant, efficient and easy to maintain.
 
 #### #10 Don't change interfaces. Ever.
 
