@@ -30,7 +30,7 @@ Put slack into your plan.
 
 #### #5 Beware superhero developers.
 
-Superheros are fast in writing code that is impossible to an average colleage to
+Superheros are fast in writing code that is impossible to an average colleague to
 understand. That kind of code is a nightmare. Superheros don't want to do boring stuff like software maintenance so others need to. But if they (the colleagues) don't understand the code, then what?
 
 #### #6 Work hard and it will be alright.
@@ -47,13 +47,13 @@ Minimum viable product, no bloat. Then go forward from that, in slices. Slices a
 
 #### #9 Layers are evil.
 
-Don't add layers on top of layers. Some engineers love layers, because they have complicated minds, but each additional layer is an overhead, it makes architecture more complicated and that's evil. 
+Don't add layers on top of layers. Some engineers love layers, because they have complicated minds, but each additional layer is an overhead, it makes architecture more complicated and that's the start of evil. 
 
 Simple solutions are elegant and efficient and cheap to maintain.
 
 #### #10 Don't change interfaces. Ever.
 
-When you change an interface, you potentially create a hidden bomb in the system. Don't do it. Add another interface and mark the old one deprecated instead. Or better yet, make a system that supports multiple versions.
+When you change an interface, you potentially create a hidden bomb in the system. Don't do it. Add another interface and mark the old one deprecated instead. Or better yet, make a system that dynamically supports multiple versions.
 
 #### #11 Seek for simplicity. 
 
