@@ -2,19 +2,19 @@
 #
 
 # Site settings
-title: Tectonic
+title: Tectonic Hub
 description: |
   It takes only a vision  
   to start a journey
-logo: images/tectonic_logo_white_transparent.png
-owner: Tectonic Works # or company name
+logo: images/tectonichub_white_transparent.png
+owner: Tectonic Hub # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: info@tectonicworks.com
+email: jedi@tectonichub.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tectonicworks.com" # the base hostname & protocol for your site
+url: "http://tectonichub.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
+  #twitter: https://twitter.com/<username>
+  #github: https://github.com/<username>
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>

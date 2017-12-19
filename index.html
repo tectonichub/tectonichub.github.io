@@ -10,9 +10,10 @@ layout: landing
     							<h2>{{ site.title }}</h2>
                             {% endif %}                
 							<p>{{ site.description | markdownify }}</p>
-							<ul class="actions">
+<!--							<ul class="actions">
 								<li><a href="#two" class="button special">Start</a></li>
-							</ul>
+                            </ul>
+                        -->
 						</div>
 						<a href="#one" class="more scrolly">Learn More</a>
 					</section>
@@ -98,11 +99,11 @@ layout: landing
                                     Contact
                                 </h2>
 								<p>
-                                    <a href="mailto://jedi@tectonicworks.com">jedi@tectonicworks.com</a>
+                                    <a href="mailto://{{ site.email }}">{{ site.email }}</a>
                                 </p>
                             </header>
 							<ul class="actions vertical">
-								<li><a href="mailto://jedi@tectonicworks.com" class="button fit special">eMail</a></li>
+								<li><a href="mailto://{{ site.email }}" class="button fit special">eMail</a></li>
 <!--								<li><a href="tel://+9999999999" class="button fit">Call</a></li>
 -->
 							</ul>
